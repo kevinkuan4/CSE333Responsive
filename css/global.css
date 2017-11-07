@@ -1,0 +1,38 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar .navbar-nav > li a:hover {
+    background: transparent !important; 
+}
+
+.navbar{
+    background-color: black;
+    margin: auto;
+}
+
+.navbar li a{
+    color: white;
+    border-bottom: 1px solid transparent;
+    transition: all ease-in-out 0.5s;
+}
+
+.navbar li a:hover{
+    border-color: white;
+} 
+
+.icon-bar{
+    background: white;
+}
+
+.navbar-brand{
+    padding-left: 15px;
+    padding-top: 0
+}
+.navbar-brand img{
+    height: 50px;
+    
+}
+
