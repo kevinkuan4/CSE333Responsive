@@ -3,6 +3,7 @@ html,body{
     width: 100%;
     margin: 0px;
     padding: 0px;
+    text-align: center;
 }
 .navbar .navbar-nav > li a:hover {
     background: transparent !important; 
