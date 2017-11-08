@@ -4,6 +4,7 @@ html,body{
     margin: 0px;
     padding: 0px;
     text-align: center;
+    
 }
 .navbar .navbar-nav > li a:hover {
     background: transparent !important; 
@@ -34,6 +35,11 @@ html,body{
 }
 .navbar-brand img{
     height: 50px;
+}
+
+.text{
+    width: 80%;
+    margin: auto;
     
 }
 
